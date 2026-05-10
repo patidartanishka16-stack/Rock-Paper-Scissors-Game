@@ -20,5 +20,5 @@ Paper beats Rock
 
 ## How to Run
 ```bash
-python game.py
+game.py
 
